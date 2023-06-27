@@ -1,0 +1,3339 @@
+.container {
+  max-width: 620px;
+  min-width: 320px;
+  margin: 0 auto;
+}
+
+.xojiyev-jamshid {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-width: 595px;
+  padding: 0px 0px 18px;
+  position: relative;
+}
+
+.xojiyev-jamshid .vector {
+  height: 2813px;
+  left: 180px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.xojiyev-jamshid .header {
+  align-items: center;
+  align-self: stretch;
+  background-color: #f2f4f7;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding: 12px 20px;
+  position: relative;
+}
+
+.xojiyev-jamshid .frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.xojiyev-jamshid .div {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper {
+  color: #1570ef;
+  font-family: "Roboto", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  height: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 232px;
+}
+
+.xojiyev-jamshid .p {
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 1.44px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .frame-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  width: 346px;
+}
+
+.xojiyev-jamshid .frame-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  position: relative;
+}
+
+.xojiyev-jamshid .frame-5 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: 173px;
+}
+
+.xojiyev-jamshid .text-wrapper-2 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .frame-6 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: 173px;
+}
+
+.xojiyev-jamshid .text-wrapper-3 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .frame-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  position: relative;
+}
+
+.xojiyev-jamshid .frame-8 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: 173px;
+}
+
+.xojiyev-jamshid .text-wrapper-4 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .frame-9 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: 173px;
+}
+
+.xojiyev-jamshid .feather-icons-github {
+  height: 12px;
+  min-width: 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-5 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .frame-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  position: relative;
+}
+
+.xojiyev-jamshid .frame-10 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: 173px;
+}
+
+.xojiyev-jamshid .text-wrapper-6 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .IMG {
+  height: 120px;
+  min-width: 120px;
+  position: relative;
+}
+
+.xojiyev-jamshid .about {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 20px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-7 {
+  align-self: stretch;
+  color: #1570ef;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .row {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  position: relative;
+}
+
+.xojiyev-jamshid .column {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .text-wrapper-8 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 15px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .column-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .hello-welcome-to-my {
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .span {
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.xojiyev-jamshid .text-wrapper-9 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .employment {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 8px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .row-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  position: relative;
+}
+
+.xojiyev-jamshid .div-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .text-wrapper-10 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 15px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .column-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-11 {
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .analyzing-the {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .img {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 8px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .work-experience {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 20px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-12 {
+  align-self: stretch;
+  color: #1570ef;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .row-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .text-wrapper-13 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 15px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .column-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-14 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .row-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-15 {
+  align-self: stretch;
+  color: #1570ef;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .i-work-here-as-a {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .employment-2 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .row-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .p-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .text-wrapper-16 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 15px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .column-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .vue-js-nuxt-js {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .row-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.xojiyev-jamshid .fincube {
+  align-self: stretch;
+  color: #1570ef;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .i-started-working-at {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .employment-3 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .row-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .text-wrapper-17 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 15px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-8 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .frontend-react-js {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .row-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-18 {
+  align-self: stretch;
+  color: #1570ef;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .i-started-working-at-2 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .employment-4 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .row-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .text-wrapper-19 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 15px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .column-10 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .frontend-react-js-2 {
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .row-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-20 {
+  align-self: stretch;
+  color: #1570ef;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .text-wrapper-21 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .employment-5 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .row-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .text-wrapper-22 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 15px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .column-12 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .frontend-react-js-3 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .row-12 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-23 {
+  align-self: stretch;
+  color: #1570ef;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .i-worked-as-a-front {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .employment-6 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .web-applications {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 20px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-24 {
+  color: #1570ef;
+  flex: 1;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 555px;
+}
+
+.xojiyev-jamshid .row-13 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-14 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-25 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .row-14 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-26 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .row-15 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-15 {
+  align-items: center;
+  display: flex;
+  gap: 6px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-27 {
+  color: #000000;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .column-16 {
+  align-items: center;
+  display: flex;
+  gap: 6px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-28 {
+  color: #000000;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .employment-7 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .row-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-17 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-18 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-29 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .in-this-web {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .employment-8 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .row-17 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-19 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-20 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-30 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .i-created-the-front {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .employment-9 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .row-18 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-21 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-22 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-31 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto Slab", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+}
+
+.xojiyev-jamshid .text-wrapper-32 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .employment-10 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .row-19 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-23 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-24 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-33 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .text-wrapper-34 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .employment-11 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .row-20 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-25 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-26 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-35 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .i-worked-as-a {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .employment-12 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .UI-UX-designs {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 20px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-36 {
+  color: #1570ef;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .row-21 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-27 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-28 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-37 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .row-22 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-38 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-29 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-39 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .employment-13 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .row-23 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-30 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-31 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-40 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .row-24 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.xojiyev-jamshid .this-project-is {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .row-25 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-32 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-41 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .employment-14 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .row-26 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-33 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-34 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-42 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .row-27 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-43 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .row-28 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 16px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-35 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-44 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .employment-15 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .figma-community {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 20px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-45 {
+  align-self: stretch;
+  color: #1570ef;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .row-29 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-36 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-37 {
+  align-self: stretch;
+  flex: 1;
+  height: 256px;
+  min-width: 394px;
+  position: relative;
+}
+
+.xojiyev-jamshid .frame-11 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #f2f4f7;
+  border-radius: 4px;
+  box-shadow: 0px 4px 12px #1013230a;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 12px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.xojiyev-jamshid .frame-12 {
+  height: 80px;
+  min-width: 120px;
+  object-fit: cover;
+  position: relative;
+}
+
+.xojiyev-jamshid .frame-13 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  padding: 0px 6px 6px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-46 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .frame-14 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 6px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.xojiyev-jamshid .frame-15 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-47 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .frame-16 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-48 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .frame-17 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #f2f4f7;
+  border-radius: 4px;
+  box-shadow: 0px 4px 12px #1013230a;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 142px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.xojiyev-jamshid .frame-18 {
+  height: 80px;
+  min-width: 120px;
+  object-fit: cover;
+  position: relative;
+}
+
+.xojiyev-jamshid .frame-19 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  padding: 0px 6px 6px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-49 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .frame-20 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 6px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.xojiyev-jamshid .frame-21 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-50 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .frame-22 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-51 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .frame-23 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #f2f4f7;
+  border-radius: 4px;
+  box-shadow: 0px 4px 12px #1013230a;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 272px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.xojiyev-jamshid .frame-24 {
+  height: 80px;
+  min-width: 120px;
+  object-fit: cover;
+  position: relative;
+}
+
+.xojiyev-jamshid .frame-25 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  padding: 0px 4px 6px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-52 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .frame-26 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 6px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.xojiyev-jamshid .frame-27 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-53 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .frame-28 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-54 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .frame-29 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #f2f4f7;
+  border-radius: 4px;
+  box-shadow: 0px 4px 12px #1013230a;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 12px;
+  overflow: hidden;
+  position: absolute;
+  top: 133px;
+  width: 120px;
+}
+
+.xojiyev-jamshid .desktop {
+  height: 80px;
+  min-width: 120px;
+  object-fit: cover;
+  position: relative;
+}
+
+.xojiyev-jamshid .frame-30 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  padding: 0px 4px 6px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-55 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .frame-31 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 6px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.xojiyev-jamshid .frame-32 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-56 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .frame-33 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  justify-content: flex-end;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-57 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .employment-16 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 8px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .skills {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 20px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-58 {
+  align-self: stretch;
+  color: #1570ef;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .front-end-middle {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-38 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-39 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-59 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .skills-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.xojiyev-jamshid .row-30 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-60 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .sass-SCSS {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-31 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-61 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .javascript {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-32 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-62 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-63 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-33 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .git-github-gitlab {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-64 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-34 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .npm-yarn {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-65 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-35 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-66 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-67 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-36 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-68 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-69 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-37 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-70 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-71 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-38 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-72 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-73 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-39 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-74 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-75 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .employment-17 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .front-end-junior {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-40 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-41 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-76 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .skills-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 382px;
+}
+
+.xojiyev-jamshid .row-40 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-77 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-78 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-41 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-79 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-80 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-42 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .SSR-CSR-SSG {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-81 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .employment-18 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .design-middle {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-42 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-43 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-82 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .skills-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.xojiyev-jamshid .row-43 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-83 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-84 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-44 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-85 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-86 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-45 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-87 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-88 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-46 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-89 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-90 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-47 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-91 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-92 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-48 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-93 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-94 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-49 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-95 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-96 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .row-50 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .typography-color {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .icons-illustrations {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .employment-19 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .design-junior {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-44 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .column-45 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-97 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .row-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 6px 0px 0px;
+  position: relative;
+}
+
+.xojiyev-jamshid .row-51 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  height: 14px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-98 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .text-wrapper-99 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.xojiyev-jamshid .employment-20 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .employment-21 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 20px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-100 {
+  align-self: stretch;
+  color: #1570ef;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .row-52 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-46 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .text-wrapper-101 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 15px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .column-47 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-102 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.xojiyev-jamshid .text-wrapper-103 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .employment-22 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .row-53 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .sep-jun-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+}
+
+.xojiyev-jamshid .sep-jun {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .column-48 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+}
+
+.xojiyev-jamshid .tashkent-institute {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.xojiyev-jamshid .text-wrapper-104 {
+  align-self: stretch;
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.xojiyev-jamshid .employment-23 {
+  height: 7px;
+  left: 157px;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.xojiyev-jamshid .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: auto;
+  justify-content: flex-end;
+  padding: 0px 20px;
+  position: relative;
+}
+
+.xojiyev-jamshid .updated-time {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.xojiyev-jamshid .text-wrapper-105 {
+  color: #101828;
+  font-family: "Source Sans Pro", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.xojiyev-jamshid .text-wrapper-106 {
+  font-weight: 300;
+}

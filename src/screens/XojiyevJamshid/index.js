@@ -1,0 +1,1 @@
+export { XojiyevJamshid } from "./XojiyevJamshid";

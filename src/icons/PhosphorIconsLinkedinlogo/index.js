@@ -1,0 +1,1 @@
+export { PhosphorIconsLinkedinlogo } from "./PhosphorIconsLinkedinlogo";
